@@ -1,5 +1,5 @@
 # 📊 Marketing Analytics: Customer Engagement & Conversion Optimization  
-
+![Power BI Dashboard](Photo.jpg)
 ## 📖 Introduction  
 ShopEasy, an online retail business, faced declining customer engagement and conversion rates despite significant marketing investments. The goal of this project was to analyze marketing performance using **SQL, Python, and Power BI** to provide data-driven recommendations for improving customer engagement, optimizing conversion rates, and enhancing customer satisfaction.
 ## 🎯 Objectives  
@@ -69,10 +69,31 @@ ShopEasy, an online retail business, faced declining customer engagement and con
 ✅ Displayed **sentiment score distributions** to highlight satisfaction trends.
 ✅ Provided **actionable recommendations** based on data-driven insights.
 ## 📈 Key Insights from Analysis
-- 📉 **Conversion Rate Trends**: Identified that conversion rates were lowest in **May (4.3%)** and highest in **January (18.5%)**, indicating seasonal influences.  
-- 🎯 **Customer Engagement**: Click-through rates (**15.37%**) suggested that while overall engagement declined, users who interacted were still highly engaged.  
+- 📉 **Conversion Rate Trends**: Identified that conversion rates were lowest in **May (4.3%)** and highest in **January (18.5%)**, indicating seasonal influences.
+- 🎯 **Customer Engagement**: Click-through rates (**15.37%**) suggested that while overall engagement declined, users who interacted were still highly engaged.
+-  
 - 😊 **Customer Sentiment**: **275 positive reviews** highlighted strengths, while **82 negative reviews** indicated concerns around **delivery times and product quality**.  
 - 🔍 **Content Performance**: Blog content performed better than social media, suggesting a need to **optimize social content strategies**.  
+## 🔄 Overview Analysis  
+A detailed breakdown of overview using Power BI:  
+
+![Conversion Analysis](Power%20BI/overview.png) 
+
+## 🔄 Conversion Analysis  
+A detailed breakdown of Conversion Rate using Power BI:  
+
+![Conversion Analysis](Power%20BI/Conversion.png)
+
+## 🔄 Customer Analysis  
+A detailed breakdown of Customer Analysis using Power BI:  
+
+![Conversion Analysis](Power%20BI/Customer.png)
+
+
+## 🔄 SocialMedia Analysis  
+A detailed breakdown of SocialMedia Analysis using Power BI:  
+
+![Conversion Analysis](Power%20BI/Socialmedia.png)
 
 ---
 
