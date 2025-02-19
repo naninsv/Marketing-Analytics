@@ -7,7 +7,7 @@ ShopEasy, an online retail business, faced declining customer engagement and con
 - 💡 **Enhance Customer Engagement**: Evaluate marketing content performance and recommend content strategies.  
 - 😊 **Improve Customer Sentiment**: Extract insights from customer reviews to enhance satisfaction.  
 - 🔍 **Data-Driven Decision Making**: Provide actionable insights through **SQL, Python (NLTK), and Power BI dashboards**.  
-## 🛠️ Tools & Technologies Used  
+## 🛠️ Tools & Technologies Used 
 - 🗄 **SQL Server**: Data extraction, cleaning, and transformation.  
 - 🐍 **Python (pandas, NLTK, pyodbc)**: Sentiment analysis and customer segmentation.  
 - 📊 **Power BI**: Data visualization and interactive dashboard creation.  
